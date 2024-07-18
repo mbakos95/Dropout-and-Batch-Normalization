@@ -1,2 +1,5 @@
 # Dropout-and-Batch-Normalization
-In this exercise, you'll add dropout to the *Spotify* model and see how batch normalization can let you successfully train models on difficult datasets.
+In this lesson, I explored two special types of layers in deep learning: 
+The Dropout layer and the Batch Normalization layer. These layers do not contain neurons but add essential functionality to neural networks, often used in modern architectures.
+
+Feel free to check the whole cource here: https://www.kaggle.com/learn/intro-to-deep-learning/course
